@@ -13,8 +13,6 @@ body {
 	height: 2%;
 	background-color: red;
 	position:absolute;
-	left: 50%;
-	top: 50%;
 }
 .enemy, .v_enemy {
 	width: 0.75%;
